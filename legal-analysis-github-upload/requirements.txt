@@ -1,5 +1,0 @@
-google-generativeai
-faiss-cpu
-pdfplumber
-tqdm
-python-dotenv
